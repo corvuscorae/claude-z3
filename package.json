@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "z3-solver": "^4.13.3"
+  }
+}
